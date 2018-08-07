@@ -1,8 +1,8 @@
 (** * Coq codes *)
 (** ** Dependencies *)
 
-Require Export RegExp.Utility.
-Require Export RegExp.Definitions.
+Require Export Utility.
+Require Export Definitions.
 
 (** ** [Empty] *)
 (** [Empty] corresponds to 0 in Kleene algebra. *)

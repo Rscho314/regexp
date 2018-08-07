@@ -39,10 +39,10 @@ Elements of [RegExp] satisfy [re_eq] when they give the same matching result to 
 (** * Coq codes *)
 (** ** Dependencies *)
 
-Require Export RegExp.Utility.
-Require Export RegExp.Definitions.
-Require Export RegExp.Boolean.
-Require Export RegExp.Concat.
-Require Export RegExp.Star.
-Require Export RegExp.Includes.
-Require Export RegExp.Char.
+Require Export Utility.
+Require Export Definitions.
+Require Export Boolean.
+Require Export Concat.
+Require Export Star.
+Require Export Includes.
+Require Export Char.

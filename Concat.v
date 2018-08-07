@@ -1,9 +1,9 @@
 (** * Coq codes *)
 (** ** Dependencies *)
 
-Require Export RegExp.Utility.
-Require Export RegExp.Definitions.
-Require Export RegExp.Boolean.
+Require Export Utility.
+Require Export Definitions.
+Require Export Boolean.
 
 (** ** [Cat] is morphism *)
 

@@ -4,11 +4,11 @@
 Require Import Recdef.
 Require Import Arith.Wf_nat.
 Require Import Omega.
-Require Export RegExp.Utility.
-Require Export RegExp.Definitions.
-Require Export RegExp.Boolean.
-Require Export RegExp.Concat.
-Require Export RegExp.Star.
+Require Export Utility.
+Require Export Definitions.
+Require Export Boolean.
+Require Export Concat.
+Require Export Star.
 
 (** ** Define [includes] *)
 

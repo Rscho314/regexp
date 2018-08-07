@@ -20,7 +20,7 @@ and [derive] with consistency. *)
 (** * Coq codes *)
 (** ** Dependencies *)
 
-Require Export RegExp.Utility.
+Require Export Utility.
 Require Export Setoid.
 Require Export Relation_Definitions.
 
